@@ -124,4 +124,4 @@ prediction = target_scaler.inverse_transform(scaled_prediction.reshape(-1, 1)).r
 
 ## Contact
 
-For questions or collaboration, please contact [your-email@example.com].
+For questions or collaboration, please contact [mostafaeslam1220@gmail.com].
