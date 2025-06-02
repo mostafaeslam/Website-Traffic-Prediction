@@ -46,9 +46,8 @@ Our analysis found that the Random Forest model with datetime features performed
 
 ## Installation and Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Website-Traffic-Prediction.git
+1. Clone the repository:   ```bash
+   git clone https://github.com/mostafaeslam/Website-Traffic-Prediction.git
    cd Website-Traffic-Prediction
    ```
 
