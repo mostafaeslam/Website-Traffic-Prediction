@@ -46,18 +46,19 @@ Our analysis found that the Random Forest model with datetime features performed
 
 ## Installation and Setup
 
-1. Clone the repository:   ```bash
+1. Clone the repository:
+   ```bash
    git clone https://github.com/mostafaeslam/Website-Traffic-Prediction.git
    cd Website-Traffic-Prediction
    ```
 
-2. Create a virtual environment (recommended):
+3. Create a virtual environment (recommended):
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows, use: venv\Scripts\activate
    ```
 
-3. Install the required packages:
+4. Install the required packages:
    ```bash
    pip install -r requirements.txt
    ```
